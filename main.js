@@ -44,16 +44,16 @@ function LinkGame(config) {
     'images/gifts/28.png',
   ];
   this.nums = [
-    'images/0.png',
-    'images/1.png',
-    'images/2.png',
-    'images/3.png',
-    'images/4.png',
-    'images/5.png',
-    'images/6.png',
-    'images/7.png',
-    'images/8.png',
-    'images/9.png',
+    'images/number-0.png',
+    'images/number-1.png',
+    'images/number-2.png',
+    'images/number-3.png',
+    'images/number-4.png',
+    'images/number-5.png',
+    'images/number-6.png',
+    'images/number-7.png',
+    'images/number-8.png',
+    'images/number-9.png',
   ];
   this.xnums = [
     'images/x0.png',
